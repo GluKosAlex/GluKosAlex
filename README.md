@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Konstantin and I'm a Frontend Developer.</p>
+<p align="left">My name is Konstantin and I'm a Frontend Developer with Graphic Design background and inderested in Fullstack development.</p>
 
 ###
 

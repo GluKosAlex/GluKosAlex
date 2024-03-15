@@ -8,8 +8,9 @@
   🌱 I am exploring Next.js and TypeScript.<br>
   🏭 I am seeking a position at a reputable, progressive company that utilizes cutting-edge web development techniques.<br>
   💬 I speak Russian and English, and I am currently studying French.<br>
-  🎨📷🔨 I have a passion for contemporary art, design and photography. Additionally, I am building a frame house by learning about the technology from various open sources.</p>
-
+  🎨 I have a passion for contemporary art, design and photography.<br>
+  🔨 I am building a frame house by learning about the technology from various open sources.</p>
+  
 ###
 
 <br clear="both">

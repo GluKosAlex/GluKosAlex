@@ -1,16 +1,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<p align="left">My name is Konstantin, and I'm a frontend developer with a background in graphic design and an interest in fullstack development.</p>
 
-<p align="left">My name is Konstantin and I'm a Frontend Developer with Graphic Design background and inderested in Fullstack development.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🔭 I’m currently working on e-commerce web application for jewelry brand Jou-B-Jou using Next.js!<br>🌱 Diving in Next.js and TypeScript<br>🏭 I am looking for a job in a stable, growing company using modern web development technologies</p>
+<p align="left">
+  🔭 I am currently working on an e-commerce web application for the jewelry brand Jou-B-Joy the Next.js framework.<br>
+  🌱 I am exploring Next.js and TypeScript.<br>
+  🏭 I am seeking a position at a reputable, progressive company that utilizes cutting-edge web development techniques.<br>
+  💬 I speak Russian and English, and I am currently studying French.<br>
+  🎨📷🔨 I have a passion for contemporary art, design and photography. Additionally, I am building a frame house by learning about the technology from various open sources.</p>
 
 ###
 
